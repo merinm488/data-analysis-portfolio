@@ -1,0 +1,15 @@
+# Data
+*.csv
+*.xlsx
+*.xls
+Dataset/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Environment
+.env
+venv/
